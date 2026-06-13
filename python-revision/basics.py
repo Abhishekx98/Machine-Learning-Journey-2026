@@ -6,3 +6,4 @@ print("Age:", age)
 
 for i in range(5):
     print(i)
+print("starting machine learning")
